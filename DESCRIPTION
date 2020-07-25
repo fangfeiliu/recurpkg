@@ -24,3 +24,5 @@ Imports:
     tibble (>= 3.0.3),
     magrittr (>= 1.5)
 VignetteBuilder: knitr
+URL: https://github.com/fangfeiliu/recurpkg
+BugReports: https://github.com/fangfeiliu/recurpkg/issues
