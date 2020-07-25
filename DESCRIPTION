@@ -1,15 +1,14 @@
 Package: recurpkg
-Title: What the Package Does (One Line, Title Case)
+Title: Calculating a recursive sequence vector and possible dataset for plot
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Fangfei",
+           family = "Liu",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "fangfeiliu0811@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
