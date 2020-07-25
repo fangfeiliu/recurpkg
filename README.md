@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-The goal of recurpkg is to …
+The goal of recurpkg is to calculate the sequence vector for a recursive sequence formular and possibly draw a graph for a dataset
 
 ## Installation
 
