@@ -22,6 +22,8 @@
 #' recur_vec(x = c(2, 4, 3,5), n = 3)
 
 recur_vec <- function(x,n) {
+  x = as.numeric(x)
+  x = x[!is.na(x)]
   if(length(x) > 3) x = x[1:3]
   if(as.integer(n) != n) return ("the sequence number indicator must be an integer")
   if(n <= 0) return(" Position numner must be greater than zero")
