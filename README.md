@@ -26,7 +26,7 @@ position n, y axis as the sequence value.
 
 "This package is only available by permission of the author at
 
-install.packages(“GitRepo Link”)
+install.packages(“<https://github.com/fangfeiliu/recurpkg.git>”)
 
 ``` r
 install.packages("recurpkg")

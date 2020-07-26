@@ -30,7 +30,7 @@ If the input is a vector, then the initial three numeric values will be taken as
 
 "This package is only available by permission of the author at
 
-install.packages("GitRepo Link")
+install.packages("https://github.com/fangfeiliu/recurpkg.git")
 
 ``` r
 install.packages("recurpkg")
